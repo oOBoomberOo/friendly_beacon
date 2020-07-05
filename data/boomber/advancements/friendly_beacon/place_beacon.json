@@ -1,0 +1,13 @@
+{
+	"criteria": {
+		"beacon": {
+			"trigger": "minecraft:placed_block",
+			"conditions": {
+				"block": "minecraft:beacon"
+			}
+		}
+	},
+	"rewards": {
+		"function": "boomber:friendly_beacon/event/place_beacon"
+	}
+}

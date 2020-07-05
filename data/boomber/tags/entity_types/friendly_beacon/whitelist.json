@@ -1,0 +1,31 @@
+{
+	"values": [
+		"minecraft:wolf",
+		"minecraft:cat",
+		"minecraft:villager",
+		"minecraft:chicken",
+		"minecraft:cow",
+		"minecraft:pig",
+		"minecraft:sheep",
+		"minecraft:bat",
+		"minecraft:donkey",
+		"minecraft:fox",
+		"minecraft:horse",
+		"minecraft:mooshroom",
+		"minecraft:mule",
+		"minecraft:ocelot",
+		"minecraft:parrot",
+		"minecraft:pig",
+		"minecraft:rabbit",
+		"minecraft:snow_golem",
+		"minecraft:strider",
+		"minecraft:wandering_trader",
+		"minecraft:bee",
+		"minecraft:dolphin",
+		"minecraft:llama",
+		"minecraft:panda",
+		"minecraft:iron_golem",
+		"minecraft:polar_bear",
+		"minecraft:silverfish"
+	]
+}

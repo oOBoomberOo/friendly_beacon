@@ -1,0 +1,17 @@
+{
+    "display": {
+        "title": "Friendly Beacon",
+        "description": "Beacon affect more entities",
+        "icon": {
+            "item": "minecraft:beacon"
+        },
+        "announce_to_chat": false,
+        "show_toast": false
+    },
+    "parent": "global:boomber",
+    "criteria": {
+        "trigger": {
+            "trigger": "minecraft:tick"
+        }
+    }
+}
