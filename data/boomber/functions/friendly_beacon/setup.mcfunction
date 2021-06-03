@@ -1,10 +1,6 @@
 scoreboard objectives add bb.fb.var dummy
 scoreboard objectives add bb.fb.enum dummy
 
-scoreboard objectives add bb.fb.level dummy
-scoreboard objectives add bb.fb.p_effect dummy
-scoreboard objectives add bb.fb.s_effect dummy
-
 #define score_holder #effect.none
 scoreboard players set #effect.none bb.fb.enum 0
 

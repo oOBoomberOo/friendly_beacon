@@ -1,3 +1,3 @@
-function boomber:friendly_beacon/beacon/method/get_level
-function boomber:friendly_beacon/beacon/method/get_primary_effect
-function boomber:friendly_beacon/beacon/method/get_secondary_effect
+data modify entity @s data.level set from block ~ ~ ~ Levels
+data modify entity @s data.primary set from block ~ ~ ~ Primary
+data modify entity @s data.secondary set from block ~ ~ ~ Secondary
