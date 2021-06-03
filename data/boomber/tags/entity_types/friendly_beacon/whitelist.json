@@ -26,6 +26,9 @@
 		"minecraft:panda",
 		"minecraft:iron_golem",
 		"minecraft:polar_bear",
-		"minecraft:silverfish"
+		"minecraft:silverfish",
+		"minecraft:axolotl",
+		"minecraft:goat",
+		"minecraft:glow_squid"
 	]
 }
